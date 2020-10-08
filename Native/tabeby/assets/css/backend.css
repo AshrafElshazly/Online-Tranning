@@ -1,0 +1,50 @@
+/*Admin Tables*/
+.table-img{
+    height: 130px;
+    width: 250px;
+    padding: 0px;
+    border-radius: 6%;
+}
+.table td{
+    vertical-align: baseline;
+}
+
+/*body index*/
+
+body {
+  font-family: 'Roboto Condensed', sans-serif !important;
+	font-size:16px;
+	line-height:1.42857143;
+  padding-top:0;
+}
+
+.card img{
+    height: 230px;
+    width: 230px;
+    border-radius: 50%;
+    margin: 28px;
+}
+.card-style{
+  padding-left: 30px;
+  padding-top: 20px;
+  color: aliceblue;
+}
+
+.jambo{
+  padding-top: 0.5px;
+  color: aliceblue;
+  margin-bottom: 1rem !important;
+}
+.bg-dark {
+  background-color: #152230!important;
+}
+.header{
+  margin-bottom: 70px;
+}
+.form-signin{
+  width: 250px;
+}
+
+.date{
+  padding-bottom: 10px;
+}
